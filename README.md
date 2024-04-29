@@ -4,7 +4,7 @@ This add-on enables dragging scroll on the web pages in Firefox browser. you can
 
 ### install
 You can install this add-on on Firefox from here:
-https://addons.mozilla.org/en-US/firefox/addon/dragonweb/
+https://addons.mozilla.org/firefox/addon/dragonweb/
 
 
 enjoy study :)
